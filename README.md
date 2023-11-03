@@ -19,8 +19,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   
-</p><picture>
+</p>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AvotraR/AvotraR/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvotraR/AvotraR/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AvotraR/AvotraR/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
